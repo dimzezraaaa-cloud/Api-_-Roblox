@@ -1,0 +1,13 @@
+
+{
+  "name": "xunknownx-creatorstoreapi",
+  "version": "1.0.0",
+  "description": "XunknownX Roblox Creator Store API",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}
